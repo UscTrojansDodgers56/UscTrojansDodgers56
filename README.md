@@ -11,7 +11,7 @@ Microsoft Sentinel · KQL · Splunk · Wireshark · Microsoft Entra ID · Azure 
 
 ## Resume
 
-[![View Resume](https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/UscTrojansDodgers56/UscTrojansDodgers56/raw/main/Sean_White_Resume.pdf)
+[![View Resume](https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/UscTrojansDodgers56/UscTrojansDodgers56/blob/main/Sean_White_Resume.pdf)
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/seanwhite56) · [YouTube](https://youtu.be/0Xd_pT5AuJQ)
